@@ -8,7 +8,7 @@ Chạy offline hoàn toàn.
 
 ## Cài đặt
 
-- **Downloader:** (chưa có mã — tạo sau khi đăng GitHub)
+- **Downloader:** 9498201 (mở app Downloader trên TV, gõ 9498201)
 - **GitHub:** https://github.com/TheodoreNguyenSa/mbti-test (repo chưa tạo —
   auto-update trong app sẽ im lặng bỏ qua cho tới khi có release)
 - Hoặc chép file APK qua USB / Send Files to TV rồi cài.
