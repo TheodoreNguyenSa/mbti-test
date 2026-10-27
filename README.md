@@ -1,4 +1,4 @@
-# MBTI Test v1.0.1 — Android TV
+# MBTI Test v1.2.0 — Android TV
 
 Trắc nghiệm tính cách MBTI cho TV: 32 câu hỏi tiếng Việt (8 câu cho mỗi cặp
 đối lập E/I, S/N, T/F, J/P), mỗi câu 2 đáp án. Kết quả: 4 chữ cái + biệt
@@ -8,7 +8,7 @@ Chạy offline hoàn toàn.
 
 ## Cài đặt
 
-- **Downloader:** 9498201 (mở app Downloader trên TV, gõ 9498201)
+- **Downloader:** 4520839 (mở app Downloader trên TV, gõ 4520839)
 - **GitHub:** https://github.com/TheodoreNguyenSa/mbti-test (repo chưa tạo —
   auto-update trong app sẽ im lặng bỏ qua cho tới khi có release)
 - Hoặc chép file APK qua USB / Send Files to TV rồi cài.
